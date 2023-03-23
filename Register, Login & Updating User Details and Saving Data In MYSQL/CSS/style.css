@@ -1,0 +1,29 @@
+.body {
+  font: 14px sans-serif;
+  color:#0dba4b;
+  background-color: #0dba4b;
+}
+
+.h5 {
+  color: blue;
+}
+
+.wrapper {
+  padding-top: 60px;
+  width: 50%;
+  height: 80%;
+  padding: 50px;
+}
+
+.background {
+  align-items: center;
+  background-color: #0dba4b;
+}
+
+.heading {
+  color: rgb(211, 19, 58);
+}
+
+.head {
+  padding-left: 50px;
+}/*# sourceMappingURL=style.css.map */

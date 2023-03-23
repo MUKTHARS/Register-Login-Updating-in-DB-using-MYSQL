@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"login"},
+{"type":"table","name":"register","database":"login","data":
+[
+{"PersonID":"0","name":"mohamed","email":"xyz@gmail.com","contact":"4362456345","password":"123"},
+{"PersonID":"0","name":"MOHAMED MUKTHAR  S","email":"xyz@gmail.com","contact":"9876543210","password":"12345"},
+{"PersonID":"0","name":"koushik","email":"k@gmail.com","contact":"8765432019","password":"123"},
+{"PersonID":"0","name":"Mr.R","email":"r@gmail.com","contact":"9823489263","password":"456"},
+{"PersonID":"0","name":"Miss L","email":"L@gmail.com","contact":"8676342356","password":"678"}
+]
+}
+]
